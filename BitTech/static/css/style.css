@@ -1,0 +1,21 @@
+.navbar-brand{
+    color: #fff;
+}
+
+.nav-bar{
+    background:#020229 !important;
+}
+.nav-bar .nav-link{
+    color: #fff !important;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#020229;
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
